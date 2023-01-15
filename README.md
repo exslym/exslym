@@ -1,10 +1,8 @@
 # Hi! My name is Andrei
----
-## Front-end Middle ReactJS Developer
----
+
 ### 🧑🏻‍💻  About me
 
-I'm a self-taught Front-end Web Developer (Middle ReactJS Developer). You can contact me:
+### I'm a self-taught Front-end Web Developer (Middle ReactJS Developer). You can contact me:
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:exslym@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-exslym-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/exslym) [![Instagram Badge](https://img.shields.io/badge/-exslym-hotpink?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ex.slym/)  
 
@@ -26,6 +24,8 @@ I'm a self-taught Front-end Web Developer (Middle ReactJS Developer). You can co
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
 	</a>&nbsp
 </div>
+
+---
 
 ### 💻  Skills
 
@@ -65,6 +65,8 @@ I'm a self-taught Front-end Web Developer (Middle ReactJS Developer). You can co
 	</a>
 </div>
 
+---
+
 ### 🛠  Tools
 
 <div align="left">
@@ -79,6 +81,8 @@ I'm a self-taught Front-end Web Developer (Middle ReactJS Developer). You can co
 	</a>
 </div>
 
+---
+
 ### ⚙️  GitHub Stats
 
 <div align="left">
@@ -86,10 +90,14 @@ I'm a self-taught Front-end Web Developer (Middle ReactJS Developer). You can co
 	<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=dark" alt="webDev's Github Languages" style="display: inline-block; vertical-align: top;"/>
 </div> 
 
+---
+
 ### 🏆  Trophies
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=exslym&theme=onedark)](https://github.com/exslym/github-profile-trophy) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=exslym&no-bg=true&margin-w=5&margin-h=5&theme=discord&title=Repositories,Commits,Stars,Followers,PullRequest)](https://github.com/exslym/github-profile-trophy)
+
+---
 
 ### 💰  Support Me
 
