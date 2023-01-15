@@ -1,7 +1,7 @@
 # Hi! My name is Andrei
-
+---
 ## Front-end Middle ReactJS Developer
-
+---
 ### 🧑🏻‍💻  About me
 
 I'm a self-taught Front-end Web Developer (Middle ReactJS Developer). You can contact me:
