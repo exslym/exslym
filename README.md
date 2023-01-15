@@ -1,12 +1,11 @@
-# Hi! My name is Andrei
+### 🧑🏻‍💻 I'm a Middle ReactJS Web Developer
+You can contact me:
 
-### 🧑🏻‍💻 I'm a Middle ReactJS Developer. You can contact me:
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:exslym@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-exslym-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/exslym) [![Instagram Badge](https://img.shields.io/badge/-exslym-hotpink?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ex.slym/)  
+[![Telegram Badge](https://img.shields.io/badge/-exslym-deepskyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/exslym) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/exslym) [![Instagram Badge](https://img.shields.io/badge/-exslym-deeppink?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ex.slym/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-crimson?style=flat&logo=Gmail&logoColor=white)](mailto:exslym@gmail.com) 
 
 ---
 
-### 🌀 Socials
+### 🌀 $~$Socials
 
 <div align="left">
 	<a href="https://www.github.com/exslym" target="_blank" rel="noreferrer">
