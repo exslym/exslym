@@ -85,7 +85,10 @@ I'm a self-taught Front-end Web Developer (Middle ReactJS Developer). You can co
 
 ### Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=exslym&theme=onedark&title=Repositories,Commits,Stars,Followers,PullRequest)](https://github.com/exslym/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=exslym&theme=onedark&rank=-C,-B,-Unknown)](https://github.com/exslym/github-profile-trophy)
+<!-- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=exslym&theme=onedark&title=Repositories,Commits,Stars,Followers,PullRequest)](https://github.com/exslym/github-profile-trophy) -->
 
 ### Support Me
 
