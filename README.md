@@ -9,16 +9,16 @@
 
 <div align="left">
 	<a href="https://www.github.com/exslym" target="_blank" rel="noreferrer">
-		<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" height="40"  alt="github"/>
+		<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" height="40"  alt="github" title="github"/>
 	</a>&nbsp
 	<a href="https://www.linkedin.com/in/exslym" target="_blank" rel="noreferrer">
-		<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" height="40"  alt="linkedin"/>
+		<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" height="40"  alt="linkedin" title="linkedin"/>
 	</a>&nbsp
 	<a href="https://www.instagram.com/ex.slym" target="_blank" rel="noreferrer">
-		<img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="40" height="40"  alt="instagram"/>
+		<img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="40" height="40"  alt="instagram" title="instagram"/>
 	</a>&nbsp
 	<a href="https://www.youtube.com/c/exslym" target="_blank" rel="noreferrer">
-		<img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="youtube"/>
+		<img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="youtube" title="youtube"/>
 	</a>&nbsp
 </div>
 
@@ -27,37 +27,37 @@
 ### 💻 $~$ Skills
 
 <div align="left">
-	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+	<a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="ReactJS">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
 	</a>&nbsp
-	<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+	<a href="https://redux.js.org/" target="_blank" rel="noreferrer" title="Redux">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
 	</a>&nbsp
-	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 	</a>&nbsp
-	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
 	</a>&nbsp
-	<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+	<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" title="HTML5">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
 	</a>&nbsp
-	<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+	<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" title="CSS3">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
 	</a>&nbsp
-	<a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+	<a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title="SCSS">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
 	</a>&nbsp
-	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+	<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="TailwindCSS">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
 	</a>&nbsp
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-		<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git">
+		<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="36" height="36"/>
 	</a>&nbsp
-	<a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+	<a href="https://webpack.js.org/" target="_blank" rel="noreferrer" title="Webpack">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" />
 	</a>&nbsp
-	<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+	<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" title="NodeJS">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 	</a>
 </div>
@@ -67,20 +67,20 @@
 ### 🛠 $~$ Tools
 
 <div align="left">
-	<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
+	<a href="https://insiders.vscode.dev/" target="_blank" rel="noreferrer" title="vscode">
+		<img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/visualstudiocodeinsiders_103154.png" width="36" height="36" alt="VScode" />
 	</a>&nbsp
-	<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
+	<a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="figma">
+		<img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" width="36" height="36" alt="Figma" />
 	</a>&nbsp
-		<a href="https://avocode.com" target="_blank" rel="noreferrer">
-		<img src="https://avocode.com/favicons/32.png" width="36" height="36" alt="Avocode" />
+	<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer" title="photoshop">
+		<img src="https://cdn-icons-png.flaticon.com/512/5436/5436972.png" width="36" height="36" alt="Photoshop" />
 	</a>&nbsp
-	<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-		<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="36" height="36" alt="Canva" />
+	<a href="https://www.canva.com/" target="_blank" rel="noreferrer" title="canva">
+		<img src="https://cdn.iconscout.com/icon/free/png-512/canva-3823975-3175197.png?f=avif" width="36" height="36" alt="Canva" />
 	</a>&nbsp
-	<a href="https://www.youtube.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="36" height="36" alt="YouTube" />
+	<a href="https://www.youtube.com/" target="_blank" rel="noreferrer" title="youtube">
+		<img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/youtube_logo_icon_147199.png" width="36" height="36" alt="YouTube" />
 	</a>
 </div>
 
