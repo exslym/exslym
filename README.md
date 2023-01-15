@@ -104,9 +104,10 @@ I'm a self-taught Front-end Web Developer (Middle ReactJS Developer). You can co
 
 <div align="left">
 	<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark&background=000000" alt="webDev's Github stats" />
-</div> 
+</div>
+
 <div align="left">
-	<img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=vision-friendly-dark" />
+	<img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=vision-friendly-dark" />
 </div> 
 
 
