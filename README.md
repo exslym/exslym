@@ -1,14 +1,12 @@
 # Hi! My name is Andrei
 
-### 🧑🏻‍💻  About me
-
-### I'm a self-taught Front-end Web Developer (Middle ReactJS Developer). You can contact me:
+### 🧑🏻‍💻 I'm a Middle ReactJS Developer. You can contact me:
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:exslym@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-exslym-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/exslym) [![Instagram Badge](https://img.shields.io/badge/-exslym-hotpink?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ex.slym/)  
 
 ---
 
-### 🌀  Socials
+### 🌀 Socials
 
 <div align="left">
 	<a href="https://www.github.com/exslym" target="_blank" rel="noreferrer">
@@ -27,7 +25,7 @@
 
 ---
 
-### 💻  Skills
+### 💻 Skills
 
 <div align="left">
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -67,7 +65,7 @@
 
 ---
 
-### 🛠  Tools
+### 🛠 Tools
 
 <div align="left">
 	<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -83,7 +81,7 @@
 
 ---
 
-### ⚙️  GitHub Stats
+### ⚙️ GitHub Stats
 
 <div align="left">
 	<img src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark" alt="webDev's Github stats" style="display: inline-block; vertical-align: top;" />
@@ -92,14 +90,14 @@
 
 ---
 
-### 🏆  Trophies
+### 🏆 Trophies
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=exslym&theme=onedark)](https://github.com/exslym/github-profile-trophy) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=exslym&no-bg=true&margin-w=5&margin-h=5&theme=discord&title=Repositories,Commits,Stars,Followers,PullRequest)](https://github.com/exslym/github-profile-trophy)
 
 ---
 
-### 💰  Support Me
+### 💰 Support Me
 
 <div align="left">
 	<a href="https://www.buymeacoffee.com/exslym" target="_blank">
