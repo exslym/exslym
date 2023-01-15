@@ -7,8 +7,9 @@
 I'm a self-taught Front-end Web Developer (Middle ReactJS Developer). You can contact me:
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:exslym@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-exslym-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/exslym) [![Instagram Badge](https://img.shields.io/badge/-exslym-hotpink?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ex.slym/)  
-<div height="2px" style="width: 100%; background-color: white;">&nbsp</div> 
+
 ---
+
 ### 🌀  Socials
 
 <div align="left">
