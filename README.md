@@ -1,5 +1,5 @@
 ### 🧑🏻‍💻 $~$ I'm a Middle ReactJS Web Developer
-You can contact me:
+✉️ $~$ You can contact me:
 
 [![Telegram Badge](https://img.shields.io/badge/-exslym-deepskyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/exslym) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/exslym) [![Instagram Badge](https://img.shields.io/badge/-exslym-deeppink?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ex.slym/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-crimson?style=flat&logo=Gmail&logoColor=white)](mailto:exslym@gmail.com) 
 
@@ -9,16 +9,16 @@ You can contact me:
 
 <div align="left">
 	<a href="https://www.github.com/exslym" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+		<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" height="40"  alt="github"/>
 	</a>&nbsp
 	<a href="https://www.linkedin.com/in/exslym" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+		<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" height="40"  alt="linkedin"/>
 	</a>&nbsp
 	<a href="https://www.instagram.com/ex.slym" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+		<img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="40" height="40"  alt="instagram"/>
 	</a>&nbsp
 	<a href="https://www.youtube.com/c/exslym" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
+		<img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="youtube"/>
 	</a>&nbsp
 </div>
 
@@ -73,11 +73,14 @@ You can contact me:
 	<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
 	</a>&nbsp
+		<a href="https://avocode.com" target="_blank" rel="noreferrer">
+		<img src="https://avocode.com/favicons/32.png" width="36" height="36" alt="Avocode" />
+	</a>&nbsp
 	<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
 		<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="36" height="36" alt="Canva" />
 	</a>&nbsp
 	<a href="https://www.youtube.com/" target="_blank" rel="noreferrer">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" width="36" height="36" alt="YouTube" />
+		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="36" height="36" alt="YouTube" />
 	</a>
 </div>
 
