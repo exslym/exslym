@@ -85,6 +85,7 @@ I'm a self-taught Front-end Web Developer (Middle ReactJS Developer). You can co
 	<img src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark&background=000000" alt="webDev's Github stats" />
 </div> 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=exslym)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Support Me
 
