@@ -15,8 +15,8 @@ I'm a self-taught Front-end Web Developer (Middle ReactJS Developer). You can co
 	<a href="https://www.linkedin.com/in/exslym" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 	</a>&nbsp
-	<a href="https://www.twitter.com/exslym" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+	<a href="https://www.instagram.com/ex.slym" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
 	</a>&nbsp
 	<a href="https://www.youtube.com/c/exslym" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
