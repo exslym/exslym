@@ -112,6 +112,6 @@
 
 ---
 
-### 💰 $~$ Random Joke
+### 😎 $~$ Random Joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?borderColor=%23FFF&bgColor=%2322272E)
