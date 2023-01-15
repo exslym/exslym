@@ -75,6 +75,9 @@ You can contact me:
 	</a>&nbsp
 	<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
 		<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" width="36" height="36" alt="Canva" />
+	</a>&nbsp
+	<a href="https://www.youtube.com/" target="_blank" rel="noreferrer">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" width="36" height="36" alt="YouTube" />
 	</a>
 </div>
 
