@@ -2,6 +2,8 @@
 
 ## Front-end Middle ReactJS Developer
 
+### :man_technologist: About me
+
 I'm a self-taught Front-end Web Developer (Middle ReactJS Developer). You can contact me:
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:exslym@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-exslym-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/exslym) [![Instagram Badge](https://img.shields.io/badge/-exslym-hotpink?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ex.slym/)  
@@ -77,8 +79,6 @@ I'm a self-taught Front-end Web Developer (Middle ReactJS Developer). You can co
 
 
 ### GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exslym)](https://github.com/exslym/github-readme-stats)
 
 <div align="left">
 	<img src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark" alt="webDev's Github stats" style="display: inline-block; vertical-align: top;" />
