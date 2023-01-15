@@ -79,13 +79,13 @@ I'm a self-taught Front-end Web Developer (Middle ReactJS Developer). You can co
 ### GitHub Stats
 
 <div align="left">
-	<img src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark&background=000000" alt="webDev's Github stats" style="display: inline-block; align: middle; margin-block-end: 10px; margin-inline-end: 10px;" />
-	<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=vision-friendly-dark" alt="webDev's Github Languages" style="display: inline-block; align: middle; margin-block-end: 10px;"/>
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark&background=000000" alt="webDev's Github stats" style="display: inline-block; align: middle;" />
+	<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=vision-friendly-dark" alt="webDev's Github Languages" style="display: inline-block; align: middle;"/>
 </div> 
 
 ### Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=exslym)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=exslym&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Support Me
 
