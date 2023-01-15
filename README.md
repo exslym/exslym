@@ -1,4 +1,4 @@
-### 🧑🏻‍💻 I'm a Middle ReactJS Web Developer
+### 🧑🏻‍💻 I'm a Middle ReactJS Developer
 ✉️ You can contact me:
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-deepskyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/exslym) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/exslym) [![Instagram Badge](https://img.shields.io/badge/-Instagram-deeppink?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ex.slym/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-crimson?style=flat&logo=Gmail&logoColor=white)](mailto:exslym@gmail.com) 
