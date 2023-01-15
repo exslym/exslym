@@ -78,7 +78,7 @@ I'm a self-taught Front-end Web Developer (Middle ReactJS Developer). You can co
 
 ### GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=exslym)](https://github.com/exslym/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exslym)](https://github.com/exslym/github-readme-stats)
 
 <div align="left">
 	<img src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark" alt="webDev's Github stats" style="display: inline-block; vertical-align: top;" />
