@@ -1,11 +1,11 @@
-### 🧑🏻‍💻 I'm a Middle ReactJS Web Developer
+### 🧑🏻‍💻 $~$ I'm a Middle ReactJS Web Developer
 You can contact me:
 
 [![Telegram Badge](https://img.shields.io/badge/-exslym-deepskyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/exslym) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/exslym) [![Instagram Badge](https://img.shields.io/badge/-exslym-deeppink?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ex.slym/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-crimson?style=flat&logo=Gmail&logoColor=white)](mailto:exslym@gmail.com) 
 
 ---
 
-### 🌀 $~$Socials
+### 🌀 $~$ Socials
 
 <div align="left">
 	<a href="https://www.github.com/exslym" target="_blank" rel="noreferrer">
@@ -24,7 +24,7 @@ You can contact me:
 
 ---
 
-### 💻 Skills
+### 💻 $~$ Skills
 
 <div align="left">
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -64,7 +64,7 @@ You can contact me:
 
 ---
 
-### 🛠 Tools
+### 🛠 $~$ Tools
 
 <div align="left">
 	<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
@@ -80,7 +80,7 @@ You can contact me:
 
 ---
 
-### ⚙️ GitHub Stats
+### ⚙️ $~$ GitHub Stats
 
 <div align="left">
 	<img src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark" alt="webDev's Github stats" style="display: inline-block; vertical-align: top;" />
@@ -89,14 +89,14 @@ You can contact me:
 
 ---
 
-### 🏆 Trophies
+### 🏆 $~$ Trophies
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=exslym&theme=onedark)](https://github.com/exslym/github-profile-trophy) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=exslym&no-bg=true&margin-w=5&margin-h=5&theme=discord&title=Repositories,Commits,Stars,Followers,PullRequest)](https://github.com/exslym/github-profile-trophy)
 
 ---
 
-### 💰 Support Me
+### 💰 $~$ Support Me
 
 <div align="left">
 	<a href="https://www.buymeacoffee.com/exslym" target="_blank">
