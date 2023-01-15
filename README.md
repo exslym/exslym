@@ -79,19 +79,14 @@ I'm a self-taught Front-end Web Developer (Middle ReactJS Developer). You can co
 ### GitHub Stats
 
 <div align="left">
-	<a href="#" target="_blank" style="display: inline-block; vertical-align: top; heght: auto;">
-		<img src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark" alt="webDev's Github stats" style="display: inline-block; vertical-align: top;" />
-	</a>
-	<a href="#" target="_blank" style="display: inline-block; vertical-align: top; heght: auto;">
-		<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=dark" alt="webDev's Github Languages" style="display: inline-block; vertical-align: top;"/>
-	</a>
-
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark" alt="webDev's Github stats" style="display: inline-block; vertical-align: top;" />
+	<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=dark" alt="webDev's Github Languages" style="display: inline-block; vertical-align: top;"/>
 </div> 
 
 ### Trophies
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=exslym&theme=onedark)](https://github.com/exslym/github-profile-trophy) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=exslym&margin-w=5&theme=discord&title=Repositories,Commits,Stars,Followers,PullRequest)](https://github.com/exslym/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=exslym&no-bg=true&margin-w=5&margin-h=5&theme=discord&title=Repositories,Commits,Stars,Followers,PullRequest)](https://github.com/exslym/github-profile-trophy)
 
 ### Support Me
 
