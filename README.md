@@ -80,7 +80,8 @@ I'm a self-taught Front-end Web Developer (Middle ReactJS Developer). You can co
 
 <div align="left">
 	<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=vision-friendly-dark" alt="webDev's Github Languages" />
-	<br/>
+	<br>
+	<br>
 	<img src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark&background=000000" alt="webDev's Github stats" />
 </div> 
 
