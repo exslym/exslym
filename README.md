@@ -67,20 +67,20 @@
 ### 🛠 $~$ Tools
 
 <div align="left">
-	<a href="https://insiders.vscode.dev/" target="_blank" rel="noreferrer" title="vscode">
+	<a href="https://insiders.vscode.dev/" target="_blank" rel="noreferrer" title="vscode-insiders">
 		<img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/visualstudiocodeinsiders_103154.png" width="36" height="36" alt="VScode" />
 	</a>&nbsp
-	<a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="figma">
-		<img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/figma_logo_icon_147289.png" width="36" height="36" alt="Figma" />
+		<a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="figma">
+		<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="34" height="34" alt="Figma" />
 	</a>&nbsp
 	<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer" title="photoshop">
-		<img src="https://cdn-icons-png.flaticon.com/512/5436/5436972.png" width="36" height="36" alt="Photoshop" />
+		<img src="https://cdn-icons-png.flaticon.com/512/136/136529.png" width="36" height="36" alt="Photoshop" />
 	</a>&nbsp
 	<a href="https://www.canva.com/" target="_blank" rel="noreferrer" title="canva">
-		<img src="https://cdn.iconscout.com/icon/free/png-512/canva-3823975-3175197.png?f=avif" width="36" height="36" alt="Canva" />
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/600px-Canva_icon_2021.svg.png?20220821125247" width="36" height="36" alt="Canva" />
 	</a>&nbsp
-	<a href="https://www.youtube.com/" target="_blank" rel="noreferrer" title="youtube">
-		<img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/youtube_logo_icon_147199.png" width="36" height="36" alt="YouTube" />
+	<a href="https://www.apple.com/final-cut-pro/" target="_blank" rel="noreferrer" title="finalcut">
+		<img src="https://help.apple.com/assets/6169D386C62BCC4E874FA2D0/6169D39EC62BCC4E874FA2E0/en_US/97f5f4dfe6df84d78caacff68ec63538.png" width="36" height="36" alt="finalcut" />
 	</a>
 </div>
 
