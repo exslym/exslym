@@ -2,10 +2,9 @@
 
 ## Front-end Middle ReactJS Developer
 
-<div align="left">
-	<p>I'm a self-taught Front-end Web Developer (Middle ReactJS Developer)</p>
-	<p>contact me at&mbsp[![Telegram Badge](https://img.shields.io/badge/-exslym-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/exslym) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:exslym@gmail.com)</p>
-</div>
+I'm a self-taught Front-end Web Developer (Middle ReactJS Developer)
+
+contact me:  [![Telegram Badge](https://img.shields.io/badge/-exslym-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/exslym)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:exslym@gmail.com)
 
 ### Socials
 
