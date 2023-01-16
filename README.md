@@ -94,8 +94,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-	<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=dark" alt="Github Languages" style="display: inline-block; vertical-align: top;"/>
 	<img src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark" alt="Github stats" style="display: inline-block; vertical-align: top;" />
+	<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=dark" alt="Github Languages" style="display: inline-block; vertical-align: top;"/>
 </p>
 
 <!-- 
