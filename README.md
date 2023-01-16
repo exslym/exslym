@@ -114,7 +114,7 @@
 ### 🏆 Trophies
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=exslym&theme=onedark)](https://github.com/exslym/github-profile-trophy) -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=exslym&no-bg=true&margin-w=5&margin-h=5&theme=discord&title=Repositories,Commits,Stars,Followers,PullRequest)](https://github.com/exslym/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=exslym&margin-w=5&margin-h=5&theme=onestar&title=Repositories,Commits,Stars,Followers,PullRequest)](https://github.com/exslym/github-profile-trophy)
 
 ---
 
@@ -145,15 +145,27 @@
 		<img src="https://github.com/exslym/exslym/blob/503feb1579eaf65e8fb524caedcadb148e4a945b/assets/linkedin.png" width="40" height="40"  alt="linkedin" title="linkedin"/>
 	</a>&nbsp
 		<a href="https://www.youtube.com/c/exslym" target="_blank" rel="noreferrer">
-		<img src="https://github.com/exslym/exslym/blob/503feb1579eaf65e8fb524caedcadb148e4a945b/assets/youtube.png" width="40" height="40" alt="youtube" title="youtube"/>
+			<img src="https://github.com/exslym/exslym/blob/503feb1579eaf65e8fb524caedcadb148e4a945b/assets/youtube.png" width="40" height="40" alt="youtube" title="youtube"/>
 	</a>&nbsp
 	<a href="https://www.instagram.com/ex.slym" target="_blank" rel="noreferrer">
 		<img src="https://github.com/exslym/exslym/blob/503feb1579eaf65e8fb524caedcadb148e4a945b/assets/instagram.png" width="40" height="40"  alt="instagram" title="instagram"/>
 	</a>&nbsp
-		<a href="https://www.github.com/exslym" target="_blank" rel="noreferrer">
+	<a href="https://www.github.com/exslym" target="_blank" rel="noreferrer">
 		<img src="https://github.com/exslym/exslym/blob/503feb1579eaf65e8fb524caedcadb148e4a945b/assets/github.png" width="40" height="40"  alt="github" title="github"/>
 	</a>&nbsp
-		<a href="https://profile.codersrank.io/user/exslym/" target="_blank" rel="noreferrer">
+<!-- 	<a href="https://profile.codersrank.io/user/exslym/" target="_blank" rel="noreferrer">
 		<img src="https://github.com/exslym/exslym/blob/5c0d432d9ca85ec7d42f432cb16d3738bdb39685/assets/codersrank.png" width="40" height="40"  alt="github" title="codersrank"/>
-	</a>
+	</a> -->
 </p>
+
+---
+
+<details>
+  <summary><b>&nbsp;some stats</b></summary>
+	<br />
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=exslym&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+
+![](https://visitor-badge.glitch.me/badge?page_id=exslym.exslym)
+	
+</details>
