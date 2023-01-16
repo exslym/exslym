@@ -102,12 +102,11 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=exslym&theme=dark)](https://git.io/streak-stats) -->
 
 <details>
-  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <summary><b>&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
   <a href='https://profile.codersrank.io/user/exslym/'>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=exslym&padding=30&skills=reactjs,typescript,javascript,html,scss,css,json,php'>
+		  <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=exslym'>
   </a>
-
 </details>
 
 ---
@@ -143,15 +142,18 @@
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/exslym" target="_blank" rel="noreferrer">
-		<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" height="40"  alt="linkedin" title="linkedin"/>
+		<img src="https://github.com/exslym/exslym/blob/503feb1579eaf65e8fb524caedcadb148e4a945b/assets/linkedin.png" width="40" height="40"  alt="linkedin" title="linkedin"/>
 	</a>&nbsp
 		<a href="https://www.youtube.com/c/exslym" target="_blank" rel="noreferrer">
-		<img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="youtube" title="youtube"/>
+		<img src="https://github.com/exslym/exslym/blob/503feb1579eaf65e8fb524caedcadb148e4a945b/assets/youtube.png" width="40" height="40" alt="youtube" title="youtube"/>
 	</a>&nbsp
 	<a href="https://www.instagram.com/ex.slym" target="_blank" rel="noreferrer">
-		<img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="40" height="40"  alt="instagram" title="instagram"/>
+		<img src="https://github.com/exslym/exslym/blob/503feb1579eaf65e8fb524caedcadb148e4a945b/assets/instagram.png" width="40" height="40"  alt="instagram" title="instagram"/>
 	</a>&nbsp
 		<a href="https://www.github.com/exslym" target="_blank" rel="noreferrer">
-		<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" height="40"  alt="github" title="github"/>
+		<img src="https://github.com/exslym/exslym/blob/503feb1579eaf65e8fb524caedcadb148e4a945b/assets/github.png" width="40" height="40"  alt="github" title="github"/>
+	</a>&nbsp
+		<a href="https://profile.codersrank.io/user/exslym/" target="_blank" rel="noreferrer">
+		<img src="https://github.com/exslym/exslym/blob/5c0d432d9ca85ec7d42f432cb16d3738bdb39685/assets/codersrank.png" width="40" height="40"  alt="github" title="codersrank"/>
 	</a>
 </p>
