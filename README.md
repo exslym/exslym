@@ -1,4 +1,7 @@
-## 🧑🏻‍💻 Hi! 👋 I'm Andrei
+### 🧑🏻‍💻 Hello there!
+
+#### A Front-End Developer by day ☼ and a React learning maniac by night ☾
+
 ✉️ You can reach me:
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-deepskyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/exslym)
