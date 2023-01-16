@@ -1,4 +1,5 @@
 ### 🧑🏻‍💻 I'm a Middle ReactJS Developer
+
 ✉️ You can contact me:
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-deepskyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/exslym) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/exslym) [![Gmail Badge](https://img.shields.io/badge/-Gmail-mediumseagreen?style=flat&logo=Gmail&logoColor=white)](mailto:exslym@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-deeppink?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ex.slym/) [![Youtube Badge](https://img.shields.io/badge/-Youtube-crimson?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/c/exslym)
@@ -6,6 +7,7 @@
 ---
 
 ### 💻 Skills
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -67,8 +69,9 @@
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 	</a>
 </p> -->
-<!-- 
----
+
+## <!--
+
 ### ⚙️ Tools
 
 <p align="left">
@@ -98,7 +101,7 @@
 	<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=dark" alt="Github Languages" style="display: inline-block; vertical-align: top;"/>
 </p>
 
-<!-- 
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=exslym&theme=dark)](https://git.io/streak-stats) -->
 
 <details>
@@ -114,6 +117,7 @@
 ### 🏆 Trophies
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=exslym&theme=onedark)](https://github.com/exslym/github-profile-trophy) -->
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=exslym&margin-w=5&margin-h=5&theme=onestar&title=Repositories,Commits,Stars,Followers,PullRequest)](https://github.com/exslym/github-profile-trophy)
 
 ---
@@ -131,7 +135,8 @@
 ### 😎 Random Joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?borderColor=%23FFF&bgColor=%2322272E)
-<!-- 
+
+<!--
 <p align="left">
   <a href="https://www.youtube.com/channel/UCJOcuwAqBpT0TC-8EWCWY7Q?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p> -->
@@ -164,8 +169,8 @@
   <summary><b>&nbsp;some stats</b></summary>
 	<br />
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=exslym&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
+![stats](https://github-readme-stats.vercel.app/api/wakatime?username=exslym&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
 
-![](https://visitor-badge.glitch.me/badge?page_id=exslym.exslym)
-	
+![visitors](https://visitor-badge.glitch.me/badge?page_id=exslym.exslym)
+
 </details>
