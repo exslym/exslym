@@ -44,8 +44,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-	<img height="195px" width="485px" bgcolor="black" src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark" alt="streak-stats"/>
-	<img height="195px" width="485px" bgcolor="black" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=dark" alt="languages-stats"/>
+	<img height="195px" width="490px" bgcolor="black" src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark" alt="streak-stats"/>
+	<img height="195px" width="490px" bgcolor="black" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=dark" alt="languages-stats"/>
 </p>
 
 <details>
