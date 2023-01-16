@@ -5,23 +5,6 @@
 
 ---
 
-### 🌀 Socials
-
-<a href="https://www.github.com/exslym" target="_blank" rel="noreferrer">
-	<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" height="40"  alt="github" title="github"/>
-</a>&nbsp
-<a href="https://www.linkedin.com/in/exslym" target="_blank" rel="noreferrer">
-	<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" height="40"  alt="linkedin" title="linkedin"/>
-</a>&nbsp
-<a href="https://www.instagram.com/ex.slym" target="_blank" rel="noreferrer">
-	<img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="40" height="40"  alt="instagram" title="instagram"/>
-</a>&nbsp
-<a href="https://www.youtube.com/c/exslym" target="_blank" rel="noreferrer">
-	<img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="youtube" title="youtube"/>
-</a>&nbsp
-
----
-
 ### 💻 Skills
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -49,7 +32,7 @@
 ![VS Code Insiders](https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<!-- <div align="left">
+<!-- <p align="left">
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="ReactJS">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
 	</a>&nbsp
@@ -83,35 +66,39 @@
 	<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" title="NodeJS">
 		<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 	</a>
-</div> -->
+</p> -->
 <!-- 
 ---
 ### ⚙️ Tools
 
-<a href="https://insiders.vscode.dev/" target="_blank" rel="noreferrer" title="vscode-insiders">
-	<img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/visualstudiocodeinsiders_103154.png" width="36" height="36" alt="VScode" />
-</a>&nbsp
-	<a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="figma">
-	<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="34" height="34" alt="Figma" />
-</a>&nbsp
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer" title="photoshop">
-	<img src="https://cdn-icons-png.flaticon.com/512/136/136529.png" width="36" height="36" alt="Photoshop" />
-</a>&nbsp
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer" title="canva">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/600px-Canva_icon_2021.svg.png?20220821125247" width="36" height="36" alt="Canva" />
-</a>&nbsp
-<a href="https://www.apple.com/final-cut-pro/" target="_blank" rel="noreferrer" title="finalcut">
-	<img src="https://help.apple.com/assets/6169D386C62BCC4E874FA2D0/6169D39EC62BCC4E874FA2E0/en_US/97f5f4dfe6df84d78caacff68ec63538.png" width="36" height="36" alt="finalcut" />
-</a> -->
+<p align="left">
+	<a href="https://insiders.vscode.dev/" target="_blank" rel="noreferrer" title="vscode-insiders">
+		<img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/visualstudiocodeinsiders_103154.png" width="36" height="36" alt="VScode" />
+	</a>&nbsp
+		<a href="https://www.figma.com/" target="_blank" rel="noreferrer" title="figma">
+		<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="34" height="34" alt="Figma" />
+	</a>&nbsp
+	<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer" title="photoshop">
+		<img src="https://cdn-icons-png.flaticon.com/512/136/136529.png" width="36" height="36" alt="Photoshop" />
+	</a>&nbsp
+	<a href="https://www.canva.com/" target="_blank" rel="noreferrer" title="canva">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/600px-Canva_icon_2021.svg.png?20220821125247" width="36" height="36" alt="Canva" />
+	</a>&nbsp
+	<a href="https://www.apple.com/final-cut-pro/" target="_blank" rel="noreferrer" title="finalcut">
+		<img src="https://help.apple.com/assets/6169D386C62BCC4E874FA2D0/6169D39EC62BCC4E874FA2E0/en_US/97f5f4dfe6df84d78caacff68ec63538.png" width="36" height="36" alt="finalcut" />
+	</a> 
+</p>  -->
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="left">
-<!-- 	<img src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark" alt="webDev's Github stats" style="display: inline-block; vertical-align: top;" /> -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=exslym&theme=dark)](https://git.io/streak-stats) -->
+
+<p align="left">
+ 	<img src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark" alt="webDev's Github stats" style="display: inline-block; vertical-align: top;" />
 	<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=dark" alt="webDev's Github Languages" style="display: inline-block; vertical-align: top;"/>
-</div> 
+</p>
 
 ---
 
@@ -122,14 +109,39 @@
 
 ---
 
+### 🌀 Socials
+
+<p align="left">
+	<a href="https://www.linkedin.com/in/exslym" target="_blank" rel="noreferrer">
+		<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" height="40"  alt="linkedin" title="linkedin"/>
+	</a>&nbsp
+		<a href="https://www.youtube.com/c/exslym" target="_blank" rel="noreferrer">
+		<img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="youtube" title="youtube"/>
+	</a>&nbsp
+	<a href="https://www.instagram.com/ex.slym" target="_blank" rel="noreferrer">
+		<img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="40" height="40"  alt="instagram" title="instagram"/>
+	</a>&nbsp
+		<a href="https://www.github.com/exslym" target="_blank" rel="noreferrer">
+		<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" height="40"  alt="github" title="github"/>
+	</a>
+</p>
+
+---
+
 ### 💰 Support Me
 
-<a href="https://www.buymeacoffee.com/exslym" target="_blank">
-	<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
-</a>
+<p align="left">
+	<a href="https://www.buymeacoffee.com/exslym" target="_blank">
+		<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+	</a>
+</p>
 
 ---
 
 ### 😎 Random Joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?borderColor=%23FFF&bgColor=%2322272E)
+<!-- 
+<p align="left">
+  <a href="https://www.youtube.com/channel/UCJOcuwAqBpT0TC-8EWCWY7Q?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p> -->
