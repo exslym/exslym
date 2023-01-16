@@ -84,25 +84,15 @@
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/exslym" target="_blank" rel="noreferrer">
-		<img src="https://github.com/exslym/exslym/blob/503feb1579eaf65e8fb524caedcadb148e4a945b/assets/linkedin.png" width="40" height="40"  alt="LinkedIn" title="LinkedIn"/>
+		<img src="assets/linkedin.png" width="40" height="40"  alt="LinkedIn" title="LinkedIn"/>
 	</a>&nbsp
 	<a href="https://www.youtube.com/c/exslym" target="_blank" rel="noreferrer">
-		<img src="https://github.com/exslym/exslym/blob/503feb1579eaf65e8fb524caedcadb148e4a945b/assets/youtube.png" width="40" height="40" alt="Youtube" title="Youtube"/>
+		<img src="assets/youtube.png" width="40" height="40" alt="Youtube" title="Youtube"/>
 	</a>&nbsp
 	<a href="https://www.instagram.com/ex.slym" target="_blank" rel="noreferrer">
-		<img src="https://github.com/exslym/exslym/blob/503feb1579eaf65e8fb524caedcadb148e4a945b/assets/instagram.png" width="40" height="40"  alt="Instagram" title="Instagram"/>
+		<img src="assets/instagram.png" width="40" height="40"  alt="Instagram" title="Instagram"/>
 	</a>&nbsp
 	<a href="https://www.github.com/exslym" target="_blank" rel="noreferrer">
-		<img src="https://github.com/exslym/exslym/blob/503feb1579eaf65e8fb524caedcadb148e4a945b/assets/github.png" width="40" height="40"  alt="Github" title="Github"/>
+		<img src="assets/github.png" width="40" height="40"  alt="Github" title="Github"/>
 	</a>&nbsp
 </p>
-
----
-
-<details>
-  <summary>&nbsp;some stats</summary>
-	<br/>
-
-![](https://visitor-badge.glitch.me/badge?page_id=exslym.exslym)
-	
-</details>
