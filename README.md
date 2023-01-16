@@ -105,7 +105,7 @@
   <summary><b>&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
   <a href='https://profile.codersrank.io/user/exslym/'>
-		  <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=exslym'>
+		  <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=exslym&width=900&height=300'>
   </a>
 </details>
 
