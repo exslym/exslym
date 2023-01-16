@@ -44,8 +44,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-	<img src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark" alt="streak-stats"/>
-	<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=dark" alt="languages-stats"/>
+	<img height="195px" width="503px" src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark" alt="streak-stats"/>
+	<img height="195px" width="503px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=dark" alt="languages-stats"/>
 </p>
 
 <details>
@@ -85,14 +85,14 @@
 <p align="left">
 	<a href="https://www.linkedin.com/in/exslym" target="_blank" rel="noreferrer">
 		<img src="assets/linkedin.png" width="40" height="40"  alt="LinkedIn" title="LinkedIn"/>
-	</a>&nbsp
+	</a>
 	<a href="https://www.youtube.com/c/exslym" target="_blank" rel="noreferrer">
 		<img src="assets/youtube.png" width="40" height="40" alt="Youtube" title="Youtube"/>
-	</a>&nbsp
+	</a>
 	<a href="https://www.instagram.com/ex.slym" target="_blank" rel="noreferrer">
 		<img src="assets/instagram.png" width="40" height="40"  alt="Instagram" title="Instagram"/>
-	</a>&nbsp
+	</a>
 	<a href="https://www.github.com/exslym" target="_blank" rel="noreferrer">
 		<img src="assets/github.png" width="40" height="40"  alt="Github" title="Github"/>
-	</a>&nbsp
+	</a>
 </p>
