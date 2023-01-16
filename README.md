@@ -1,7 +1,7 @@
 ### 🧑🏻‍💻 I'm a Middle ReactJS Developer
 ✉️ You can contact me:
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-deepskyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/exslym) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/exslym) [![Instagram Badge](https://img.shields.io/badge/-Instagram-deeppink?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ex.slym/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-crimson?style=flat&logo=Gmail&logoColor=white)](mailto:exslym@gmail.com) 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-deepskyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/exslym) [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/exslym) [![Gmail Badge](https://img.shields.io/badge/-Gmail-mediumseagreen?style=flat&logo=Gmail&logoColor=white)](mailto:exslym@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-deeppink?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ex.slym/) [![Youtube Badge](https://img.shields.io/badge/-Youtube-crimson?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/c/exslym)
 
 ---
 
@@ -93,12 +93,13 @@
 
 ### 📊 GitHub Stats
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=exslym&theme=dark)](https://git.io/streak-stats) -->
-
 <p align="left">
- 	<img src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark" alt="webDev's Github stats" style="display: inline-block; vertical-align: top;" />
-	<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=dark" alt="webDev's Github Languages" style="display: inline-block; vertical-align: top;"/>
+	<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=dark" alt="Github Languages" style="display: inline-block; vertical-align: top;"/>
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark" alt="Github stats" style="display: inline-block; vertical-align: top;" />
 </p>
+
+<!-- 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=exslym&theme=dark)](https://git.io/streak-stats) -->
 
 ---
 
@@ -106,25 +107,6 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=exslym&theme=onedark)](https://github.com/exslym/github-profile-trophy) -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=exslym&no-bg=true&margin-w=5&margin-h=5&theme=discord&title=Repositories,Commits,Stars,Followers,PullRequest)](https://github.com/exslym/github-profile-trophy)
-
----
-
-### 🌀 Socials
-
-<p align="left">
-	<a href="https://www.linkedin.com/in/exslym" target="_blank" rel="noreferrer">
-		<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" height="40"  alt="linkedin" title="linkedin"/>
-	</a>&nbsp
-		<a href="https://www.youtube.com/c/exslym" target="_blank" rel="noreferrer">
-		<img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="youtube" title="youtube"/>
-	</a>&nbsp
-	<a href="https://www.instagram.com/ex.slym" target="_blank" rel="noreferrer">
-		<img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="40" height="40"  alt="instagram" title="instagram"/>
-	</a>&nbsp
-		<a href="https://www.github.com/exslym" target="_blank" rel="noreferrer">
-		<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" height="40"  alt="github" title="github"/>
-	</a>
-</p>
 
 ---
 
@@ -145,3 +127,22 @@
 <p align="left">
   <a href="https://www.youtube.com/channel/UCJOcuwAqBpT0TC-8EWCWY7Q?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p> -->
+
+---
+
+### 🌀 Socials
+
+<p align="left">
+	<a href="https://www.linkedin.com/in/exslym" target="_blank" rel="noreferrer">
+		<img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="40" height="40"  alt="linkedin" title="linkedin"/>
+	</a>&nbsp
+		<a href="https://www.youtube.com/c/exslym" target="_blank" rel="noreferrer">
+		<img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" height="40" alt="youtube" title="youtube"/>
+	</a>&nbsp
+	<a href="https://www.instagram.com/ex.slym" target="_blank" rel="noreferrer">
+		<img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" width="40" height="40"  alt="instagram" title="instagram"/>
+	</a>&nbsp
+		<a href="https://www.github.com/exslym" target="_blank" rel="noreferrer">
+		<img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" height="40"  alt="github" title="github"/>
+	</a>
+</p>
