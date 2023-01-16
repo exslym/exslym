@@ -101,6 +101,15 @@
 <!-- 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=exslym&theme=dark)](https://git.io/streak-stats) -->
 
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/exslym/'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=exslym&padding=30&skills=reactjs,typescript,javascript,html,scss,css,json,php'>
+  </a>
+
+</details>
+
 ---
 
 ### 🏆 Trophies
