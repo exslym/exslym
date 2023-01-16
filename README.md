@@ -2,7 +2,7 @@
 
 ### 🧑🏻‍💻 I'm a Front-End Developer by day ☼ and a React learning maniac by night ☾
 
-✉️ You can reach me:
+✉️ You can reach me at:
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-deepskyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/exslym)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/exslym)
