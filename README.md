@@ -1,3 +1,6 @@
+![Fancy logo](./dark.png#gh-dark-mode-only)
+![Fancy logo](./light.png#gh-light-mode-only)
+
 ### 🧑🏻‍💻 Hello there!
 
 #### A Front-End Developer by day ☼ and a React learning maniac by night ☾
@@ -44,8 +47,8 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-	<img height="195px" width="490px" bgcolor="black" src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark" alt="streak-stats"/>
-	<img height="195px" width="490px" bgcolor="black" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=dark" alt="languages-stats"/>
+	<img height="195px" width="495px" src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark" alt="streak-stats"/>
+	<img height="195px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=dark" alt="languages-stats"/>
 </p>
 
 <details>
