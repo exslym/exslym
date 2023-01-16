@@ -1,6 +1,6 @@
-### 🧑🏻‍💻 Hello there!
+### 👋 Hello there! I'm Andrei
 
-#### A Front-End Developer by day ☼ and a React learning maniac by night ☾
+### 🧑🏻‍💻 I'm a Front-End Developer by day ☼ and a React learning maniac by night ☾
 
 ✉️ You can reach me:
 
