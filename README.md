@@ -1,6 +1,6 @@
 ### 👋 Hello there! I'm Andrei
 
-### 🧑🏻‍💻 I'm a Front-End Developer by day ☼ and a React learning maniac by night ☾
+### 🧑🏻‍💻 I'm a Front-End Developer by day and a React learning maniac by night
 
 ✉️ You can reach me at:
 
@@ -53,7 +53,7 @@
   <summary>&nbsp;Language&nbsp;/&nbsp;Framework stats</summary>
   <br/>
   <a href="https://profile.codersrank.io/user/exslym/">
-		  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=exslym&width=900&height=300" alt="codersrank-stats">
+		  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=exslym&skills=JavaScript,TypeScript,SCSS,HTML,CSS,PHP&width=900&height=300" alt="codersrank-stats">
   </a>
 </details>
 
