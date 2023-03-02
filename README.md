@@ -50,7 +50,7 @@
 
 <p align="left">
 	<img height="194px" width="495px" src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark" alt="streak-stats"/>
-	<img height="195px" width="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=dark" alt="languages-stats"/>
+	<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=dark" alt="languages-stats"/>
 </p>
 
 <details>
