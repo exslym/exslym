@@ -57,8 +57,13 @@
   <summary>&nbsp;Language&nbsp;/&nbsp;Framework stats</summary>
   <br/>
   <a href="https://profile.codersrank.io/user/exslym/">
-		  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=exslym&skills=JavaScript,TypeScript,Astro,Svelte,Flutter,Dart,Qwik,React,Tailwind,SCSS,HTML,CSS,PHP&sort-by-score=true&width=900&height=300" alt="codersrank-stats">
+		  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=exslym&skills=JavaScript,TypeScript,Astro,Svelte,Flutter,Dart,Qwik,React,Tailwind,SCSS,HTML,CSS,PHP&sort-by-score=true&width=640&height=200&padding=4px&bg=white" alt="codersrank-stats">
   </a>
+<!-- 	<br/>
+	<br/>
+	<a href="https://profile.codersrank.io/user/exslym/">
+		  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=exslym&badges=3&show-avatar=true&style=--border-radius:3px;--badge-border-radius:3px;--avatar-size:50px;--name-font-size:0.6em;--rank-font-size:0.6em;--badge-rank-font-size:0.5em;--badge-technology-font-size:0.5em;--badge-location-font-size:0.4em;--badge-icon-size:16px" alt="codersrank-summary">
+  </a> -->
 </details>
 
 ---
