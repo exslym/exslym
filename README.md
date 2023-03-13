@@ -57,7 +57,7 @@
   <summary>&nbsp;Language&nbsp;/&nbsp;Framework stats</summary>
   <br/>
   <a href="https://profile.codersrank.io/user/exslym/">
-		  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=exslym&skills=JavaScript,TypeScript,Astro,SCSS,HTML,CSS,PHP&width=900&height=300" alt="codersrank-stats">
+		  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=exslym&skills=JavaScript,TypeScript,Astro,Svelte,Flutter,Dart,Qwik,React,Tailwind,SCSS,HTML,CSS,PHP&sort-by-score=true&width=900&height=300" alt="codersrank-stats">
   </a>
 </details>
 
