@@ -1,18 +1,32 @@
-### 👋 Hello there! I'm Andrei
-
-### 🧑🏻‍💻 I'm a Front-End Developer
-
-✉️ You can reach me at:
-
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/exslym)
+#### 👋 Hello there! I'm Andrei 
+#### 🧑🏻‍💻 I'm a Front-End Developer
+#### ✉️ You can reach me at
+<!-- [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/exslym)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-deepskyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/exslym)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-mediumseagreen?style=flat&logo=Gmail&logoColor=white)](mailto:exslym@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-deeppink?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ex.slym/)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-crimson?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/c/exslym)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-crimson?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/exslym) -->
+<p align="left">
+	<a href="https://www.linkedin.com/in/exslym" target="_blank" rel="noreferrer">
+		<img src="assets/linkedin.png" width="40" height="40"  alt="LinkedIn" title="LinkedIn"/>
+	</a>
+	<a href="https://www.youtube.com/c/exslym" target="_blank" rel="noreferrer">
+		<img src="assets/youtube.png" width="40" height="40" alt="Youtube" title="Youtube"/>
+	</a>
+	<a href="https://www.instagram.com/ex.slym" target="_blank" rel="noreferrer">
+		<img src="assets/instagram.png" width="40" height="40"  alt="Instagram" title="Instagram"/>
+	</a>
+	<a href="https://www.github.com/exslym" target="_blank" rel="noreferrer">
+		<img src="assets/github.png" width="40" height="40"  alt="Github" title="Github"/>
+	</a>
+		<a href="https://www.buymeacoffee.com/exslym" target="_blank">
+		<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="buymeacoffee"/>
+	</a>
+</p>
 
 ---
 
-### 💻 Skills
+#### 💻 Skills
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -44,53 +58,10 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
+<!-- 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-	<img height="194px" width="495px" src="http://github-readme-streak-stats.herokuapp.com?user=exslym&theme=dark" alt="streak-stats"/>
-	<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exslym&layout=compact&theme=dark" alt="languages-stats"/>
-</p>
-
-<details>
-  <summary>&nbsp;Language&nbsp;/&nbsp;Framework stats</summary>
-  <br/>
-  <a href="https://profile.codersrank.io/user/exslym/">
-		  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=exslym&skills=JavaScript,TypeScript,Astro,Svelte,Flutter,Dart,Qwik,React,Tailwind,SCSS,HTML,CSS,PHP&sort-by-score=true&width=640&height=200&padding=4px&bg=white" alt="codersrank-stats">
-  </a>
-<!-- 	<br/>
-	<br/>
-	<a href="https://profile.codersrank.io/user/exslym/">
-		  <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=exslym&badges=3&show-avatar=true&style=--border-radius:3px;--badge-border-radius:3px;--avatar-size:50px;--name-font-size:0.6em;--rank-font-size:0.6em;--badge-rank-font-size:0.5em;--badge-technology-font-size:0.5em;--badge-location-font-size:0.4em;--badge-icon-size:16px" alt="codersrank-summary">
-  </a> -->
-</details>
-
----
-
-### 🏆 Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=exslym&margin-w=5&margin-h=5&theme=onestar&title=Repositories,Commits,Stars,Followers,PullRequest)](https://github.com/exslym/github-profile-trophy)
-
----
-
-### 💰 Support Me
-
-<p align="left">
-	<a href="https://www.buymeacoffee.com/exslym" target="_blank">
-		<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="buymeacoffee"/>
-	</a>
-</p>
-
----
-
-### 😎 Random Joke
-
-![Jokes Card](https://readme-jokes.vercel.app/api?borderColor=%23FFF&bgColor=%2322272E)
-
----
-
-### 🌀 Socials
+#### 🌀 Socials
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/exslym" target="_blank" rel="noreferrer">
@@ -105,4 +76,14 @@
 	<a href="https://www.github.com/exslym" target="_blank" rel="noreferrer">
 		<img src="assets/github.png" width="40" height="40"  alt="Github" title="Github"/>
 	</a>
-</p>
+		<a href="https://www.buymeacoffee.com/exslym" target="_blank">
+		<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="buymeacoffee"/>
+	</a>
+</p> 
+-->
+
+---
+
+#### 😎 Random Joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api?borderColor=%23FFF&bgColor=%2322272E)
