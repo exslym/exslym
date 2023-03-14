@@ -1,11 +1,6 @@
-#### 👋 Hello there! I'm Andrei 
-#### 🧑🏻‍💻 I'm a Front-End Developer
-#### ✉️ You can reach me at
-<!-- [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/exslym)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-deepskyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/exslym)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-mediumseagreen?style=flat&logo=Gmail&logoColor=white)](mailto:exslym@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-deeppink?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/ex.slym/)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-crimson?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/exslym) -->
+### 🧑🏻‍💻 Hello there! I'm Andrei and I'm a Front-End Developer
+#### ✉️ How to reach me
+
 <p align="left">
 	<a href="https://www.linkedin.com/in/exslym" target="_blank" rel="noreferrer">
 		<img src="assets/linkedin.png" width="40" height="40"  alt="LinkedIn" title="LinkedIn"/>
@@ -16,11 +11,11 @@
 	<a href="mailto:exslym@gmail.com" target="_blank" rel="noreferrer">
 		<img src="assets/gmail.png" width="40" height="40"  alt="Gmail" title="Gmail"/>
 	</a>
-	<a href="https://www.youtube.com/c/exslym" target="_blank" rel="noreferrer">
-		<img src="assets/youtube.png" width="40" height="40" alt="Youtube" title="Youtube"/>
-	</a>
 	<a href="https://www.instagram.com/ex.slym" target="_blank" rel="noreferrer">
 		<img src="assets/instagram.png" width="40" height="40"  alt="Instagram" title="Instagram"/>
+	</a>
+	<a href="https://www.youtube.com/c/exslym" target="_blank" rel="noreferrer">
+		<img src="assets/youtube.png" width="40" height="40" alt="Youtube" title="Youtube"/>
 	</a>
 	<a href="https://www.buymeacoffee.com/exslym" target="_blank">
 		<img src="assets/buymeacoffee.png" width="40" height="40"  alt="BuyMeACoffee" title="BuyMeACoffee"/>
