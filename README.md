@@ -56,30 +56,6 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-<!-- 
----
-
-#### 🌀 Socials
-
-<p align="left">
-	<a href="https://www.linkedin.com/in/exslym" target="_blank" rel="noreferrer">
-		<img src="assets/linkedin.png" width="40" height="40"  alt="LinkedIn" title="LinkedIn"/>
-	</a>
-	<a href="https://www.youtube.com/c/exslym" target="_blank" rel="noreferrer">
-		<img src="assets/youtube.png" width="40" height="40" alt="Youtube" title="Youtube"/>
-	</a>
-	<a href="https://www.instagram.com/ex.slym" target="_blank" rel="noreferrer">
-		<img src="assets/instagram.png" width="40" height="40"  alt="Instagram" title="Instagram"/>
-	</a>
-	<a href="https://www.github.com/exslym" target="_blank" rel="noreferrer">
-		<img src="assets/github.png" width="40" height="40"  alt="Github" title="Github"/>
-	</a>
-		<a href="https://www.buymeacoffee.com/exslym" target="_blank">
-		<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="buymeacoffee"/>
-	</a>
-</p> 
--->
-
 ---
 
 #### 😎 Random Joke
