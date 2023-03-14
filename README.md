@@ -19,8 +19,8 @@
 	<a href="https://www.github.com/exslym" target="_blank" rel="noreferrer">
 		<img src="assets/github.png" width="40" height="40"  alt="Github" title="Github"/>
 	</a>
-		<a href="https://www.buymeacoffee.com/exslym" target="_blank">
-		<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="buymeacoffee"/>
+	<a href="https://www.buymeacoffee.com/exslym" target="_blank">
+		<img src="assets/buymeacoffee.png" width="40" height="40"  alt="BuyMeACoffee" title="BuyMeACoffee"/>
 	</a>
 </p>
 
