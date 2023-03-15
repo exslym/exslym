@@ -1,4 +1,4 @@
-### 🧑🏻‍💻 Hello there! I'm Andrei and I'm a Front-End Developer
+### 🧑🏻‍💻 Hello there! I'm Andrei
 #### ✉️ How to reach me
 
 <p align="left">
