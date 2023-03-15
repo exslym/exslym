@@ -2,7 +2,7 @@
 
 ---
 
-#### I'm a skilled frontend developer with experience in TypeScript and JavaScript, and expertise in frameworks like React, Astro, Qwick and Three.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+#### I'm a skilled frontend developer with experience in TypeScript and JavaScript, and expertise in frameworks like React, Astro, Qwik and ThreeJS. I'm a quick learner and collaborate closely with clients to create efficient, scalable and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
 
 ---
 
