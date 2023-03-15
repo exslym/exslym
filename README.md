@@ -1,4 +1,11 @@
 ### 🧑🏻‍💻 Hello there! I'm Andrei
+
+---
+
+#### I'm a skilled frontend developer with experience in frameworks like React, Astro, Qwick and Three.js. I'm a quick learner and collaborate closely with clients to create efficient, scalable and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+
+---
+
 #### ✉️ How to reach me
 
 <p align="left">
