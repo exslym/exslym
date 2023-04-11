@@ -2,14 +2,14 @@
 
 ---
 
-#### I'm a skilled frontend developer with experience in TypeScript and JavaScript, and expertise in frameworks like React, Astro, Qwik and ThreeJS. I'm a quick learner and collaborate closely with clients to create efficient, scalable and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+#### I'm a skilled frontend developer with experience in TypeScript, JavaScript, Dart and expertise in frameworks like React, Astro, Qwik, ThreeJS and Flutter. I'm a quick learner and collaborate closely with clients to create efficient, scalable and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
 
 ---
 
 #### ✉️ How to reach me
 
 <p align="left">
-	<a href="https://www.linkedin.com/in/exslym" target="_blank" rel="noreferrer">
+	<a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=exslym" target="_blank" rel="noreferrer">
 		<img src="assets/linkedin.png" width="40" height="40" alt="LinkedIn" title="LinkedIn"/>
 	</a>
 	<a href="https://t.me/exslym" target="_blank" rel="noreferrer">
