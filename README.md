@@ -9,7 +9,7 @@
 #### ✉️ How to reach me
 
 <p align="left">
-	<a href="www.linkedin.com/in/exslym" target="_blank" rel="noreferrer">
+	<a href="www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=exslym" target="_blank" rel="noreferrer">
 		<img src="assets/linkedin.png" width="40" height="40" alt="LinkedIn" title="LinkedIn"/>
 	</a>
 	<a href="https://t.me/exslym" target="_blank" rel="noreferrer">
