@@ -55,20 +55,14 @@
 	<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=exslym" target="_blank" rel="noreferrer">
 		<img src="assets/linkedin.png" width="40" height="40" alt="LinkedIn" title="LinkedIn"/>
 	</a>
-	<a href="https://t.me/exslym" target="_blank" rel="noreferrer">
-		<img src="assets/telegram.png" width="40" height="40" alt="Telegram" title="Telegram"/>
-	</a>
 	<a href="mailto:exslym@gmail.com" target="_blank" rel="noreferrer">
 		<img src="assets/gmail.png" width="40" height="40" alt="Gmail" title="Gmail"/>
 	</a>
-	<a href="https://www.instagram.com/ex.slym" target="_blank" rel="noreferrer">
-		<img src="assets/instagram.png" width="40" height="40" alt="Instagram" title="Instagram"/>
+		<a href="https://t.me/exslym" target="_blank" rel="noreferrer">
+		<img src="assets/telegram.png" width="40" height="40" alt="Telegram" title="Telegram"/>
 	</a>
 	<a href="https://www.youtube.com/exslym" target="_blank" rel="noreferrer">
 		<img src="assets/youtube.png" width="40" height="40" alt="Youtube" title="Youtube"/>
-	</a>
-	<a href="https://www.buymeacoffee.com/exslym" target="_blank" rel="noreferrer">
-		<img src="assets/buymeacoffee.png" width="40" height="40" alt="BuyMeACoffee" title="BuyMeACoffee"/>
 	</a>
 </p>
 
