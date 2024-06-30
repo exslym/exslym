@@ -60,9 +60,6 @@
 	<a href="mailto:exslym@gmail.com" target="_blank" rel="noreferrer">
 		<img src="assets/gmail.png" width="40" height="40" alt="Gmail" title="Gmail"/>
 	</a>
-		<a href="https://t.me/exslym" target="_blank" rel="noreferrer">
-		<img src="assets/telegram.png" width="40" height="40" alt="Telegram" title="Telegram"/>
-	</a>
 	<a href="https://www.youtube.com/exslym" target="_blank" rel="noreferrer">
 		<img src="assets/youtube.png" width="40" height="40" alt="Youtube" title="Youtube"/>
 	</a>
