@@ -2,7 +2,14 @@
 
 ---
 
-#### I'm a skilled frontend developer with experience in TypeScript, JavaScript, Dart and expertise in frameworks like React, Astro, Qwik, ThreeJS and Flutter. I'm a quick learner and collaborate closely with clients to create efficient, scalable and user-friendly solutions that solve real-world problems. Let's work together to bring your ideas to life!
+#### Experienced and results-driven Frontend Developer with 5 years of expertise in JavaScript, TypeScript, and advanced libraries like React, NextJS, and ThreeJS. 
+Known for delivering interactive and user-focused solutions, I have a strong track record of enhancing user engagement and optimizing frontend performance.
+
+I am passionate about leveraging the latest technologies to create dynamic digital experiences. 
+With a strong eye for detail and a commitment to quality, I thrive on crafting visually appealing and highly functional web solutions that meet both business and user needs. 
+
+Let's chat and see how we can help each other - whether you're a fellow recruiter, a job seeker, or just someone interested in the industry.
+Cheers!✨
 
 ---
 
