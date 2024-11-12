@@ -33,7 +33,7 @@ Cheers!✨
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next](https://img.shields.io/badge/-Next_14-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=3178C6)
+![Next](https://img.shields.io/badge/-Next-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=3178C6)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -64,7 +64,7 @@ Cheers!✨
 	<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=exslym" target="_blank" rel="noreferrer">
 		<img src="assets/linkedin.png" width="40" height="40" alt="LinkedIn" title="LinkedIn"/>
 	</a>
-	<a href="mailto:exslym@gmail.com" target="_blank" rel="noreferrer">
+	<a href="mailto:000exs@gmail.com" target="_blank" rel="noreferrer">
 		<img src="assets/gmail.png" width="40" height="40" alt="Gmail" title="Gmail"/>
 	</a>
 	<a href="https://www.youtube.com/exslym" target="_blank" rel="noreferrer">
