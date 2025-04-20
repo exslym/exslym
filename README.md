@@ -2,10 +2,10 @@
 
 ---
 
-#### Experienced and results-driven Frontend Developer with 5+ years of expertise in JavaScript, TypeScript, and advanced libraries like React, NextJS, and ThreeJS. 
+#### I'm an experienced and results-driven Frontend Developer with 6+ years of expertise in JavaScript, React, NextJS, TypeScript, ThreeJS and more.
 Known for delivering interactive and user-focused solutions, I have a strong track record of enhancing user engagement and optimizing frontend performance.
 
-I am passionate about leveraging the latest technologies to create dynamic digital experiences. 
+I'm passionate about leveraging the latest technologies to create dynamic digital experiences. 
 With a strong eye for detail and a commitment to quality, I thrive on crafting visually appealing and highly functional web solutions that meet both business and user needs. 
 
 Let's chat and see how we can help each other - whether you're a fellow recruiter, a job seeker, or just someone interested in the industry.
@@ -61,15 +61,15 @@ Cheers!✨
 #### ✉️ How to reach me
 
 <p align="left">
-	<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=exslym" target="_blank" rel="noreferrer">
+	<a href="https://www.linkedin.com/in/exslym/" target="_blank" rel="noreferrer">
 		<img src="assets/linkedin.png" width="40" height="40" alt="LinkedIn" title="LinkedIn"/>
 	</a>
 	<a href="mailto:000exs@gmail.com" target="_blank" rel="noreferrer">
 		<img src="assets/gmail.png" width="40" height="40" alt="Gmail" title="Gmail"/>
 	</a>
-	<a href="https://www.youtube.com/exslym" target="_blank" rel="noreferrer">
+<!-- 	<a href="https://www.youtube.com/exslym" target="_blank" rel="noreferrer">
 		<img src="assets/youtube.png" width="40" height="40" alt="Youtube" title="Youtube"/>
-	</a>
+	</a> -->
 </p>
 
 ---
